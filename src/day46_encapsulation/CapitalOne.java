@@ -12,4 +12,14 @@ public class CapitalOne {
 
 
     }
+
+
+    public class Ball{
+        boolean canBounce;
+        String color;
+
+        public static void main(String [] args){
+            Ball ball = new Ball();
+        }
+    }
 }
